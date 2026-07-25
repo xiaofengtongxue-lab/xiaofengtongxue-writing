@@ -1,0 +1,6 @@
+interface:
+  display_name: "小枫同学写作"
+  short_description: "按内容类型应用我的个人写作指导，目前支持大白话技术教程与书籍"
+  default_prompt: "使用 $xiaofengtongxue-writing 为零基础读者规划并撰写一篇图解技术教程。"
+policy:
+  allow_implicit_invocation: true
